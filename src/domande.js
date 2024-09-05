@@ -25,7 +25,7 @@ const quest = [
         giusta : 1,
     },
     {
-        testo: "Colombia o Argentina, quale bandiera contiene il colore verde?",
+        testo: "Colombia o Argentina, quale bandiera contiene il colore rosso?",
         risposte: ["Colombia", "Argentina"],
         giusta : 1,
     },
